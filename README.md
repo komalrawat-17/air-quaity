@@ -69,8 +69,9 @@ A data-driven deep dive into air pollution patterns across major Indian cities, 
 
 ##  Author
  
- GitHub: https://github.com/lok-02498/BreathCheck-India.git
+ GitHub: (https://github.com/komalrawat-17/air-quaity)
 
 ---
 
 > _This project was created as part of a data science capstone, showcasing analytical thinking, data storytelling, and environmental awareness._
+
